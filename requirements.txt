@@ -1,0 +1,12 @@
+langgraph
+langchain
+langchain-google-genai
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+python-dotenv
+pypdf
+python-docx
+fastapi
+uvicorn
+pandas
